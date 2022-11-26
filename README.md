@@ -49,8 +49,8 @@ Rename the first target as Home by pressing F2. Alternatively, select ToolsRenam
 	 
 ### PROGRAM 
 ```
-Name:V.A.JITHENDRA
-Register Number:212221230043
+Name:N.Niharika
+Register Number:212221240031
 ```
 ```
 import sys
